@@ -1,0 +1,8 @@
+baseurl = "http://JonathanJablonski.com/"
+languageCode = "en-us"
+title = "Spectral Sheep"
+theme = "redlounge"
+[params]
+	sidebartitle = "Spectral Sheep"
+	sidebartagline = "Welcome! Please stay a while, we have hot chocolates"
+    sidebarphoto = "/img/me2.jpg"
